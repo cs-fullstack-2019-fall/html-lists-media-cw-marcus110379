@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: red;
+    font-size: xx-large;
+
+
+
+}
+section{
+    float: right;
+    width: 50%;
+}
+aside{
+    height: 350px;
+    float: left;
+    width: 50%;
+
+    background-color: aqua;
+}
+body{
+    background-color: khaki;
+}
+.move{
+    float: right;
+    width: 48%;
+
+}
+/*footer{*/
+/*    clear: both;*/
+/*    text-align: center;*/
+/*}*/
