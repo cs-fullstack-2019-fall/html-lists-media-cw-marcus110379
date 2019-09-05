@@ -1,9 +1,11 @@
+Score : 3
 # HTML Lists/Media Graded Class Work
 
 ### Exercise 1:
 Reproduce the list represented in the image file ```img/sample_list.png``` using CSS for any required formatting.
 
 ### Exercise 2:
+#### Partial : map text should be centered, no borders, lust bullets should be cake image
 Reproduce BDog's Birthday invitation represented in the image ```img/bday_invitation.png```
 
 * Use appropriate CSS to reproduce the invitation title at the top of the invite
